@@ -135,7 +135,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-<div align="center">
-  <b>Stay Secure, Stay Vigilant!</b>
 </div>
 # adaptive-ai-honeypot
